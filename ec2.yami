@@ -1,0 +1,5 @@
+In GIT we have 3 stages:
+	1. Working stage - file that. are not added yet
+	2. Staging -after  when we run command "git add ." - now files are
+Commit - committed (saved files)
+
